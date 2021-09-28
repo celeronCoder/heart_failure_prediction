@@ -1,4 +1,4 @@
-from utils.randimized_search import randomized_search
+from utils.randomized_search import randomized_search
 from utils.globals import X_train, y_train
 from sklearn.tree import DecisionTreeClassifier
 

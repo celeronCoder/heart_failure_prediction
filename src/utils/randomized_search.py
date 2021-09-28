@@ -1,4 +1,4 @@
-from ..utils.globals import X_train, X_test, y_test, y_train
+from utils.globals import X_train, X_test, y_test, y_train
 from sklearn.metrics import accuracy_score
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import RandomizedSearchCV
