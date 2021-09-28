@@ -1,5 +1,5 @@
 from utils.globals import X_train, y_train
-from utils.randimized_search import randomized_search
+from utils.randomized_search import randomized_search
 from sklearn.ensemble import RandomForestClassifier
 
 
